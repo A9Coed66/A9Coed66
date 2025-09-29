@@ -15,7 +15,7 @@
 > <a href="https://github.com/A9Coed66"><img alt="git" src ="https://img.shields.io/badge/A9Coed66-white.svg?style=for-the-badge&logo=github&logoColor=181717"/></a>
 > <img src ="https://img.shields.io/badge/coed66-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a> 
 > 
-> <a href="https://www.facebook.com/le.tuan.kessokubandfan3/"><img src ="https://img.shields.io/badge/Le%20Tuan-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+> <a href="https://www.facebook.com/le.tuan/"><img src ="https://img.shields.io/badge/Le%20Tuan-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 > <a href="https://www.kaggle.com/tanteio/"><img src ="https://img.shields.io/badge/Tan%20Teio-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </a> 
 
